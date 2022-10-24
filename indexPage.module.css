@@ -1,0 +1,11 @@
+.customInput {
+  padding: 15px;
+  border-radius: 7px;
+}
+.customButton {
+  background-color: skyblue;
+  padding: 7px 14px;
+  text-decoration: none;
+  color: black;
+  border-radius: 7px;
+}
